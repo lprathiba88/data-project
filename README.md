@@ -1,10 +1,7 @@
-# Advanced project --> basic-auto-project
+# Data project --> basic-auto-project
 
 
-this is readme for a Advanced project's basic-auto-project.
+this is readme for Data Project's basic-auto-project branch.
 for automation projects
 
-
-this is readme for a Advanced  project for feature branch.
-
-Madina Siebenthal
+Prathiba Lingappan
